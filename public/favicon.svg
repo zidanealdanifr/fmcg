@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Zidane Operations">
+  <defs><linearGradient id="z" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#4592fa"/><stop offset="1" stop-color="#1657d7"/></linearGradient></defs>
+  <rect width="64" height="64" rx="15" fill="url(#z)"/>
+  <path d="M17 18h31v6L27.5 43H48v6H16v-6l20.5-19H17z" fill="#fff"/>
+  <path d="M16 53h32" stroke="#9dc6ff" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
